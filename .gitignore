@@ -1,0 +1,9 @@
+# IDE and build artifacts
+.vscode/
+.pio/
+*.o
+*.a
+
+# OS files
+.DS_Store
+Thumbs.db

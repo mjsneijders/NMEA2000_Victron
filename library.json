@@ -1,0 +1,8 @@
+{
+  "name": "NMEA2000_Victron",
+  "version": "1.0.0",
+  "description": "Victron VREG and missing AC/inverter NMEA2000 message codecs",
+  "build": {
+    "srcFilter": "+<N2kVictron.cpp>"
+  }
+}
